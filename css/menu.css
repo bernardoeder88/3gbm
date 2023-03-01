@@ -9,10 +9,11 @@ body
   margin: 0;
  
 }
-h1{color: #259dab;
+h1{color: red;
    margin: 0;
    font-weight: 500;
    text-align: center;
+  font-weight: 700;
   
 }
  .container { 
@@ -24,14 +25,30 @@ h1{color: #259dab;
    align-items: center;
        }
 .box{ 
-  background-color: red;
-  background-color: rgba(38, 43, 54, 0.9);
-  justify-content: center;
-  align-items: center;
+   background-color: rgba(38, 43, 54, 0.9);
+   justify-content: center;
+   align-items: center;
+  width: 200px;
+  }
+
+ .logo{
+   background-color: ;
+   text-align: center;
+   
+   } 
+
+.botao {
+color: #ffffff;
+background-color: red;
+border-color: gray;
+text-align: center;
+  width: 200px;
+  cursor: pointer;
+  hover: red;
+  font-weight: 800;
+  padding: 5px;
   
 }
-.botao {
-background-color: transparent;
-color: silver;     
-}
+a{ color: white;
+   text-decoration:none;}
    
