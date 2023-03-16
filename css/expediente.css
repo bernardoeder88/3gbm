@@ -40,6 +40,10 @@ h1{color: red;
   color: white;
   margin-left: 50px;
 }
+#labelmilitar { 
+  color: white;
+  margin-left: 80px;
+}
 #select{
   margin-left: 50px;
   background-color: silver;
@@ -52,18 +56,18 @@ h1{color: red;
   
   
 }
-#input {
+#militar {
   color: BLACK;
   background-color: silver;
   border-color: black;
-  margin-left: 50px;
-  width:90px ;
+  margin-left: 5px;
+  width:190px ;
   cursor: pointer;
   hover: red;
   font-weight: 800;
   padding: 5px;
   display: flex;
-  text-align: center;
+ 
   }
 a{ color: white;
    text-decoration:none;}
