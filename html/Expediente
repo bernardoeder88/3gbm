@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="imagens/logooficial.png" type="image/x-icon">
+    <title> Expediente </title>
+    <link rel="stylesheet" href="../css/expediente.css">
+
+</head>
+<body>
+   
+      <div class= "container">
+      <div class="box">
+         <h1> EXPEDIENTE </h1>
+      <div class= "logo">
+        <img src="https://intranet.cbmerj.rj.gov.br/images/logooficial.png" alt="Logo do Cbmerj"> 
+      </div>
+       
+  <label id= "label" for="RG">RG</label><br>
+  <input type="number" id= "input" name="inputRG"> <br>
+        
+  <label id= "label" for="Segunda">Segunda</label><br>
+  <select id="select"  name="selectSegunda">
+      <option > X</option> 
+      <option > OD</option> 
+      <option > SO </option>
+      <option > 20º GBM</option>
+      <option > DBM 1/20</option> 
+      <option > Folga </option>
+      <option > SO </option>
+      <option > CAO </option>
+      </select> <br>
+        
+ <label id= "label" for="Terça">Terça</label><br>
+  <select id="select"  name="selectTerça">
+      <option > X</option>   
+      <option > OD</option> 
+      <option > SO </option>
+      <option > 20º GBM</option>
+      <option > DBM 1/20</option> 
+      <option > Folga </option>
+      <option > SO </option>
+      <option > CAO </option>
+      </select> <br>   
+  <label id= "label" for="Quarta">Quarta</label><br>
+  <select id="select"  name="selectQuarta">
+      <option > X</option>   
+      <option > OD</option> 
+      <option > SO </option>
+      <option > 20º GBM</option>
+      <option > DBM 1/20</option> 
+      <option > Folga </option>
+      <option > SO </option>
+      <option > CAO </option>
+      </select> <br>   
+  
+        <label id= "label" for="Quinta">Quinta</label><br>
+  <select id="select"  name="selectQuinta">
+      <option > X</option>   
+      <option > OD</option> 
+      <option > SO </option>
+      <option > 20º GBM</option>
+      <option > DBM 1/20</option> 
+      <option > Folga </option>
+      <option > SO </option>
+      <option > CAO </option>
+      </select> <br>   
+        
+        <label id= "label" for="Sexta">Sexta</label><br>
+  <select id="select"  name="selectSexta">
+      <option > X</option>   
+      <option > OD</option> 
+      <option > SO </option>
+      <option > 20º GBM</option>
+      <option > DBM 1/20</option> 
+      <option > Folga </option>
+      <option > SO </option>
+      <option > CAO </option>
+      </select> <br>   
+        
+   <label id= "label" for="Sábado">Sábado</label><br>
+  <select id="select"  name="selectSábado">
+      <option > X</option>   
+      <option > OD</option> 
+      <option > SO </option>
+      <option > 20º GBM</option>
+      <option > DBM 1/20</option> 
+      <option > Folga </option>
+      <option > SO </option>
+      <option > CAO </option>
+      </select> <br>   
+        
+        <label id= "label" for="Domingo">Domingo</label><br>
+  <select id="select"  name="selectDomingo">
+      <option > X</option>   
+      <option > OD</option> 
+      <option > SO </option>
+      <option > 20º GBM</option>
+      <option > DBM 1/20</option> 
+      <option > Folga </option>
+      <option > SO </option>
+      <option > CAO </option>
+      </select> <br>   
+  
+  
+  
+        
+   
+    </div>
+    
+</body>
+</html>
