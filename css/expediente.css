@@ -21,13 +21,15 @@ h1{color: red;
    height: 100vh;
    background-color: rgba(0, 0, 0, 0.623);
    display: flex;
-   justify-content: center;
+   justify-content: ;
    align-items: center;
-       }
+  ]       }
 .box{ 
    background-color: rgba(38, 43, 54, 0.9);
-   align-items: center;
+  margin-left: ;
+  align-items: ;
    width:;
+  
   }
 
  .logo{
@@ -69,6 +71,14 @@ h1{color: red;
   display: flex;
  
   }
-a{ color: white;
-   text-decoration:none;}
-
+.escala{ 
+      
+      background-color: ;
+      height:710px;
+}
+.tabeladoexpediente{
+       background-color: whitesmoke;
+       text-align: center;
+  
+}
+    
