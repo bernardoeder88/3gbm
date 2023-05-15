@@ -30,9 +30,10 @@ h1{color: black;
   
 }
   .expediente{ 
-   width: 100%;
-   height: 100%;
-   margin: ;
+   width: 991px;
+   height: 480px;
+   margin: auto;
+    display:block;
 }
   
  
