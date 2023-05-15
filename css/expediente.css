@@ -17,7 +17,7 @@ h1{color: black;
  
 .box{ 
    background-color: red;
-   max-width: 210px;
+  
    margin: auto;
   border-color: black;
   display: flex-end;
