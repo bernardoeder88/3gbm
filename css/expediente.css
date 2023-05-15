@@ -3,7 +3,7 @@
 html,
 body 
 { background-color:rgba(38, 43, 54, 0.9);
-  height:100%;
+
  }
 
 h1{color: black;
@@ -22,18 +22,18 @@ h1{color: black;
   display: flex-end;
    
   }
-.iframe { 
-   margin: auto;
-   width:50%;
-   height:100%; 
-  background-color: green;
+.diviframe { 
+    background-color: gray;
   
 }
-  .expediente{ 
+  .googledrive{ 
    width: 991px;
    height: 480px;
-   margin: auto;
-    display:block;
+   margin:auto;
+   display:block;
+   
+  
+   
 }
   
  
