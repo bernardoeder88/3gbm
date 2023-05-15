@@ -3,7 +3,9 @@
 html,
 body 
 { background-color:rgba(38, 43, 54, 0.9);
- width:100%;
+  width: 100%;
+    width: 991px;
+    height: 480px;
 
  }
 
@@ -17,7 +19,7 @@ h1{color: black;
  
 .box{ 
    background-color: red;
-  
+   max-width: 210px;
    margin: auto;
   border-color: black;
   display: flex-end;
