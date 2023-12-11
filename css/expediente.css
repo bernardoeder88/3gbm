@@ -27,7 +27,7 @@ h1 {
 
 .diviframe {
     background-color: gray;
-    width: 991px;
+    width: 910px;
     height: 480px;
     margin: auto;
 }
@@ -36,4 +36,9 @@ h1 {
     width: 100%;
     height: 100%;
     margin: auto;
+}
+@media screen and (max-width: 767px) {
+    .diviframe {
+        max-width: 100%;
+    }
 }
